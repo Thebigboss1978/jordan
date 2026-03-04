@@ -1,0 +1,880 @@
+Last login: Mon Feb 23 07:57:13 on ttys016
+✨ ZSH environment for AlArab Club 777 loaded successfully.
+/Users/macos/AlArab777/AlArab777_Unified_Voice_System/seven\ website/gemini-live-audio-interface\ 3/PUSH_TO_GITHUB.command ; exit;
+(base) macos@Agent777 ~ % /Users/macos/AlArab777/AlArab777_Unified_Voice_System/seven\ website/gemini-live-audio-interface\ 3/PUSH_TO_GITHUB.command ; exit;
+==========================================
+🚀 Preparing to push to Sovereign AI Repo...
+==========================================
+[+] Currently inside: /Users/macos/AlArab777/AlArab777_Unified_Voice_System/seven website/gemini-live-audio-interface 3
+[+] Ensuring junk files (node_modules, cache) are ignored...
+[+] Staging files...
+[+] Committing with message: 'feat(VoiceSystem): Sovereign integration, UI responsive fixes, Black Book manual (Clean Push)'
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	deleted:    ../claude/hathor-voice-point (9)/.gitignore
+	deleted:    ../claude/hathor-voice-point (9)/App.tsx
+	deleted:    ../claude/hathor-voice-point (9)/JUDY_VOICE_OS_MANUAL.md
+	deleted:    ../claude/hathor-voice-point (9)/PHASE_2_OFFLINE.md
+	deleted:    ../claude/hathor-voice-point (9)/README.md
+	deleted:    ../claude/hathor-voice-point (9)/TECHNICAL_SPECS.md
+	deleted:    ../claude/hathor-voice-point (9)/THE_BLACK_BOOK.md
+	deleted:    ../claude/hathor-voice-point (9)/components/HotelCard.tsx
+	deleted:    ../claude/hathor-voice-point (9)/components/HotelGenerator.tsx
+	deleted:    ../claude/hathor-voice-point (9)/components/TasksPage.tsx
+	deleted:    ../claude/hathor-voice-point (9)/components/VoiceOrb.tsx
+	deleted:    ../claude/hathor-voice-point (9)/config/judyConfig.ts
+	deleted:    ../claude/hathor-voice-point (9)/hooks/useVoiceAgent.ts
+	deleted:    ../claude/hathor-voice-point (9)/index.html
+	deleted:    ../claude/hathor-voice-point (9)/index.tsx
+	deleted:    ../claude/hathor-voice-point (9)/metadata.json
+	deleted:    ../claude/hathor-voice-point (9)/package.json
+	deleted:    ../claude/hathor-voice-point (9)/services/geminiService.ts
+	deleted:    ../claude/hathor-voice-point (9)/tsconfig.json
+	deleted:    ../claude/hathor-voice-point (9)/types.ts
+	deleted:    ../claude/hathor-voice-point (9)/vite.config.ts
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	../../../ Wed 24 Dec 00:42.md
+	../../../ Wed 24 Dec 02.md
+	"../../../ agent777 \342\200\224 Operating System Core.md"
+	../../../ ai7_runner.py
+	../../../# G0.md
+	"../../../# \331\206\331\205\331\210\330\260\330\254 \330\264\330\256\330\265\331\212\330\251 \330\256\330\250\331\212\330\261 \330\252\331\204\330\256\331\212\330\265 \330\247\331\204\330\243\330\250\330\255\330\247\330\253 - \330\250\330\247\331\204\330\271\330\261.ini"
+	"../../../# \360\237\223\246 \330\265\331\206\330\257\331\210\331\202 \330\247\331\204\330\271\330\261\331\221\330\247\330\250 777 \342\200\224 Box777.ini"
+	"../../../# \360\237\223\246 \330\265\331\206\330\257\331\210\331\202box \330\247\331\204\331\205\330\271\330\261\331\201\330\251 \342\200\224 \330\247\331\204\330\271\330\261\331\221\330\247\330\250 777.ini"
+	"../../../# \360\237\224\245 YES! Let's COOK IT NOW! \360\237\224\245.md"
+	../../../.gitignore
+	"../../../.md\331\212\330\247 \330\247\331\204\330\271\330\261\331\221\330\247\330\250\330\214 \330\257\331\210\330\261\330\252 \330\250\330\247\331\204\331\205\330\271\331\204\331\210\331\205\330\247\330\252 \330\247\331\204\331\205\330\255\331\201\331\210\330\270\330\251 \330\271\331\206\330\257.ini"
+	../../../.ollama alias
+	../../../.ollama/
+	../../../.vercelignore
+	../../../01-01-2026 Meeting-review.html
+	../../../060531_graviton_hmed_3p.webp
+	../../../0702 pyrmd1-Cover.jpg
+	../../../2025-12-27 08:52.ini
+	../../../2025-12-27 08:52.md
+	../../../29-12-2025 meetings.md
+	../../../6db03a562e2627816044300a7cececec111c033d08442116e22029809465b8ca-2025-10-28-12-20-55-195e186ccfff4dd29982da1f94f873c1/
+	../../../777 AGENT CORE.sh
+	../../../777 System - M1 Optimized/
+	../../../777 THE RUNNER | CHESSBOARD.html
+	../../../777 THE RUNNER | INTERFACE 001.html
+	../../../777 THE RUNNER | PORTAL.html
+	"../../../777 The Runner \342\200\224 Control Grid.html"
+	"../../../777 The Runner \342\200\224 Unified AI Gate.html"
+	../../../777-CNS-MASTER.json
+	../../../777.txt
+	../../../777Agent_MASTER_SINGLE-DigitalPyramids.html
+	../../../777Agent_MASTER_SINGLE-DigitalPyramids.md
+	../../../777Ai-Profiles/
+	../../../777Report001.md
+	../../../777_ARENA_export.md
+	../../../777_CHAT_INTERFACE.html
+	../../../777_Real2.html
+	../../../777_Studio.html.html
+	../../../777club.html
+	../../../777goingONnow050220260657.md
+	../../../777html.html
+	../../../777samples.html
+	../../../777web/
+	../../../7Ai-AlArAb77.py
+	../../../7_SECOND_VIDEO_SPEC.md
+	../../../7x7x7.html
+	../../../9807d00065c636c1004589c6f3b9b2d4fa72cd5a.jpg
+	"../../../<!-- \330\262\330\261 \330\247\331\204\330\271\331\210\330\257\330\251 \331\204\331\204\330\261\330\246\331\212\330\263\331\212\330\251 -->.md"
+	../../../<!DOCTYPE html>.css
+	../../../<!DOCTYPE html>.html
+	../../../<AlArab777 doctype html>.html
+	../../../<script>.html
+	../../../A7md Pm/
+	../../../AGENTS.md
+	../../../AGENTS.txt
+	../../../AI777.html
+	../../../ALARAB ICEE.html
+	"../../../ALARAB ICEE\331\244.html"
+	../../../ALARAB_3_VIDEO_SCRIPTS_COMPLETE.txt
+	../../../ALARAB_777_MASTER_REPORT.md
+	../../../ALARAB_RUNNER_README.md
+	../../../ALARAB_VIRAL_STRATEGY_COMPLETE.md
+	../../../ALArab-Branding.md
+	../../../ARA NoodleVerse.html
+	../../../ARA777_EXECUTION_MANUAL_v0.065.md
+	../../../ARINA MODE.html
+	../../../AdvanceAgent.command
+	../../../Agent Manager.ini
+	../../../Agent-777/
+	"../../../Agent777 \342\200\224 Pinokio Edition.md"
+	../../../Agent777-Final-checkpoint 01.md
+	../../../AgentX777_Starter_Enhanced/
+	../../../Ai-Boatd777/
+	../../../Ai-TheHightStudyingCertifecates.md
+	../../../Ai7 2/
+	../../../Ai7 Agents Core Runner .md
+	../../../Ai7 claude/
+	../../../Ai7-massenger.html
+	../../../Ai7/
+	../../../Ai777 Unified Gate.html
+	../../../Ai777env.md
+	../../../Ai7GGG.html
+	../../../Al-Arab Club 777 Logo.PNG
+	../../../AlAraab_Box777/
+	"../../../AlArab 777 \342\200\224 Live Chat.html"
+	../../../AlArab Club 777.html
+	"../../../AlArab Sharif AlShawish \342\200\224 Social Links (\330\247\331\204\330\271\330\261\331\221.html"
+	../../../AlArab Voice Engine.html
+	../../../AlArab Voice Speaker 777.py
+	"../../../AlArab \360\223\202\200 Portal .html"
+	"../../../AlArab-Club-777\342\200\224Execution Vision.html"
+	../../../AlArab-Operations.png
+	../../../AlArab-Operations2.png
+	../../../AlArab-Operations3.png
+	../../../AlArab-Terminal/
+	../../../AlArab2.png
+	../../../AlArab777Club/
+	../../../AlArab777Portal.html
+	../../../AlArab777PymntGateWay/
+	../../../AlArab777SmartText-standalone.html
+	../../../AlArab777UPDATE2026.md
+	../../../AlArab777_AIDeploy/
+	../../../AlArab777_AI_Faraonic_Template/
+	../../../AlArab777_Guides_OpenSource/
+	../../../AlArab777_Launcher.command
+	../../../AlArab777_Local_Master/
+	../../../AlArab777_Unified_AI_Stack_v0.4 2/
+	../../../AlArab777_Unified_AI_Stack_v0.4 3/
+	../../../AlArab777_Unified_AI_Stack_v0.4/
+	"../../ARA \342\200\224 Cosmic Gate \360\223\202\200.html"
+	../../Agent_Rules/
+	../../Backend_VoiceOS/
+	"../../COSMIC ARA \342\200\224 StarGate 777.html"
+	../../Dashboard_Testing/
+	../../Engines/
+	../../Finals/
+	../../Frontend_React_Seven/
+	../../Gemini_Generated_Image_uxxk2vuxxk2vuxxk.png
+	../../Gemini_Generated_Image_vv25hzvv25hzvv25.png
+	../../IMG_0666.png
+	../../Q1_2026_Projects_Summary.html
+	../../Seven_Master_Control.sh
+	../../Seven_Portal_Unified.html
+	../../Seven_Sovereign_Dashboard.py
+	../../Terminal Saved Output.txt
+	../../Terminal Saved Output0.txt
+	../../Terminal Saved Output2.txt
+	../../Terminal Saved deepseek.txt
+	../../Terminal seven Output.txt
+	../../The diplo is give me error.html
+	../../The diplo is give me error.ini
+	../../Untitled-1.ini
+	../../Video_War_Room/
+	../../index2.html
+	../ in Giza. The Real Vibration.**.md
+	../.gitignore
+	../ALARAB777_FINAL_STRATEGY.md
+	../Al-Arab Rooftop Club.html
+	../Al-Arab Rooftop Club7.html
+	"../AlArab Club 777 | \330\247\331\204\330\263\331\212\330\247\330\255\330\251 \330\247\331\204\330\263\331\212\330\247\330\257\331\212\330\251.html"
+	../AlArab777_VoiceEngine_v1 (1)/
+	../AlArabClub777.com-main 2/
+	../AlArabClub777.com-main 3/
+	../AlArabClub777.com-main/
+	../CONVERSATION_SAVED_2026_01_28.md
+	../Consolidating Personas.md
+	../Deploying Royal Carriage Offer.md
+	../Flaying words copy.html
+	../Flaying words.html
+	../Giza Tours.html
+	../IMG_0670.png
+	../IMG_0912.png
+	../IMG_0980.png
+	../IMG_0981.png
+	../IMG_0982.png
+	../IMG_0983.png
+	../IMG_0984.png
+	../IMG_0985.png
+	../IMG_0986.png
+	../IMG_1334.png
+	../IMG_1335.png
+	../IMG_1336.png
+	../Implementing Google API Auth.md
+	../Persona/
+	../README.md
+	../README_UNIFIED.txt
+	../SABA 777 _ Sovereign System/
+	../SEVEN _ AlArab Club 777.html
+	../SEVEN _ AlArab Club 777_files/
+	../SEVEN_CORE.html
+	../SEVEN_VOICE_CORE/
+	../TS-Files-allinone.md
+	"../You are Seven (\331\247) \342\200\224.ini"
+	../agent-answers.txt
+	../ai_studio_code.html
+	../aiarab777-local-trend-kit-custom 2/
+	../aiarab777-local-trend-kit-custom/
+	../aistuddiog.md
+	../alArab_content_master.json
+	../alarab with pyramids bg.png
+	../alarab-club-777 (1)/
+	../alarab-club-777 (6) 2/
+	../alarab-club-777 (6)/
+	../ask-masri.html
+	../bony/
+	../booking.html
+	../client_secret_9319098-41ee9jr4u8b6fmvm0j6cduumtq8oksmc.apps.googleusercontent.com.json
+	../elevenlaps vwebsite/
+	../final seven live/
+	../flask skeleton.md
+	../gemini talk/
+	../gemini-live-audio-interface (enjez)/
+	../gemini-live-audio-interface 2 copy/
+	../gemini-live-audio-interface 2/
+	../gemini-live-audio-interface/
+	../gemini-live-voice-&-search/
+	../giza_tours_flask/
+	../hathor-voice-point /
+	../index.html
+	../invite.txt
+	../judy-voice-os-777 2/
+	../judy-voice-os-777 3/
+	../judy-voice-os-777/
+	../judy-voice-os-777claude/
+	../judy1.ts
+	../judy2.ts
+	../live/
+	../news/
+	../premium.html
+	../qrcode_alarab-club-777.vercel.app.png
+	../sample.html
+	../untitled folder/
+	../voice.html
+	../websave/
+	../workart-uae-ready-sites (1)/
+	../workart-uae-ready-sites (2)/
+	../workart-uae-ready-sites-netflix-v2 (1)/
+	../workart-uae-ready-sites-netflix-v2/
+	../workart-uae-ready-sites/
+	"../\330\243\330\263\330\271\330\257 \330\247\331\204\331\204\331\207 \331\203\331\204 \330\243\331\210\331\202\330\247\330\252\331\203\331\205 \330\250\330\247\331\204\331\212\331\210\331\205 \331\210\330\247\331\204\330\250\330\261\331\203\330\251 \330\261\331\205\330\266\330\247.ini"
+	"../\330\250\331\205\330\264\330\263\331\206.rtf"
+	"../\330\252\331\202\330\261\331\212\330\261 \330\255\331\210\331\204 \330\250\330\247\330\262\330\247\330\261\330\247\330\252 \331\206\330\262\331\204\330\251 \330\247\331\204\330\263\331\205\330\247\331\206 \330\250\330\247\331\204\330\254\331\212\330\262\330\251.ini"
+	"../\342\200\217\330\250\331\212\330\252 \330\247\331\204\330\266\331\212\330\247\331\201\330\251 \330\256\331\210\331\201\331\210.png"
+	"../\342\200\217\331\206\330\270\330\247\331\205 \331\205\330\263\330\252\331\202\331\204.html"
+	../../sultan-bazaar-preview.html
+	"../../\330\263\330\253\330\257\330\253\330\261 \330\260\331\205.txt"
+	"../../\342\200\217\331\205\330\256\330\252\330\247\330\261 \331\205\331\206 \330\247\331\204\330\271\330\261\330\247\330\250/"
+	../../../AlArab777_web/
+	../../../AlArab777master-key.md
+	../../../AlArab777offers.png
+	../../../AlArabAI_Engin/
+	../../../AlArabAI_Text2Image_Final/
+	../../../AlArabChat/
+	../../../AlArabClub/
+	../../../AlArabClub777.com/
+	../../../AlArabClub777.png
+	../../../AlArabClub777/
+	../../../AlArabClub777_Complete/
+	../../../AlArabClub777_HOUSE_FULL_v1.html
+	../../../AlArabClub777_HOUSE_v2_BACKUP.htm
+	../../../AlArabClub777_History.xlsx
+	../../../AlArabClub777_MASTER.xlsx
+	../../../AlArabClub777olma.html
+	../../../AlArabClub_SocialLinks_777.csv
+	../../../AlArabHub777/
+	../../../AlArabHub_UI_v2/
+	../../../AlArabMasterReport-gpt=cld-gem.md
+	../../../AlArabPortalLoad/
+	../../../AlArabTest/
+	../../../AlArabUploader/
+	../../../AlArabVoiceRef.md
+	../../../AlArab_Club_777_Bazaars_Poster.png
+	../../../AlArab_Club_Branches.xlsx
+	../../../AlArab_Exporter_777/
+	../../../AlArab_GPT7_NewChat_Design/
+	../../../AlArab_GPT7_Ultimate_Immersive/
+	../../../AlArab_Projects_Structure_2025.html
+	../../../AlArab_Tourism_Directory.xlsx
+	../../../AlArab_Trend_Distribution_AllIn_Report.md
+	../../../AlArab_Trend_Distribution_REAL_ONLY.md
+	../../../All Videos with trans and scripts ready to boooooooooo/
+	../../../Allin.html
+	../../../AllinOne2.html
+	../../../ArabAi/
+	../../../ArabNetwork/
+	../../../Arraab_Box777/
+	../../../Arweave/
+	../../../Ask Masri777/
+	../../../Awakening_Egypt/
+	../../../Azza777 Unified Council .html
+	../../../BEFORE_AFTER.md
+	"../../../BeBa \342\200\224 Interactive Head.html"
+	../../../BlockchainsTec-crypto-money-comunity/
+	../../../Box777.md
+	../../../Box777/
+	../../../CL0005-ctrl7+xi/
+	../../../ChatGPT Image Nov 20, 2025, 08_43_36 PM.png
+	../../../DAILY_REPORTS_SETUP.md
+	../../../DEPLOYMENT_GUIDE.md
+	../../../DEPLOY_WEBSITE.sh
+	../../../Deep_Audit_Report.md
+	../../../DigitalPyramids_SkyPyramidsHotel_Agent777_Master.md
+	../../../DigitalPyramids_SkyPyramidsHotel_Agent777_Master_v1.2.md
+	../../../Draft-001.md
+	../../../EMERGENCY_START.command
+	../../../ENVIRONMENT
+	../../../EXPERIENCE THE LEGEND.html
+	../../../Edge_of_History.html
+	../../../ExecutablePythonBlock.py
+	../../../Explorer.html
+	../../../FIRST_PROMPT.md
+	../../../GATEindex.html
+	../../../GOOGLE_MAPS_STRATEGY.md
+	../../../GPT new chats/
+	../../../Gemini-cli.sh
+	../../../HTMLviewSAMPLe.html
+	../../../Here is the code in Python that combines.py
+	../../../HomePage.html
+	../../../Hotels_Constitution/
+	../../../Html.html/
+	../../../IMG_0832.png
+	../../../IMG_4871.PNG
+	../../../IMG_5247.heic
+	"../../../Icon\r"
+	"../../../JSON2do \342\226\221\342\226\222\342\226\223 \342\226\210\360\223\201\271\342\226\210 \342\226\223 \342\226\222 \342\226\221.ini"
+	"../../../JUDY VOICE OS \342\200\224 v2.0-claude/"
+	../../../Jordan_Only/
+	"../../../Judy Voice OS - \330\247\330\256\330\252\330\250\330\247\330\261 \330\247\331\204\330\265\331\210\330\252 .html"
+	../../../Judy Voice OS-Web-LOCALtts.html
+	../../../LAUNCH_SEVEN_UNIFIED.command
+	../../../LLM.md
+	../../../Launch_Digital_Pyramid.command
+	../../../Living Sky.html
+	../../../Localhost Dashboard.py
+	../../../Logo/
+	../../../MASTER_INDEX.md
+	../../../MASTER_RESTORE_777.command
+	../../../MEETING_SUMMARY_AR.md
+	../../../MV5BMjAyNDg5MjEwMl5BMl5BanBnXkFtZTgwODQyNDM5NTE@._V1_.jpg
+	../../../MacBook Pro/
+	../../../Makefile
+	../../../Malika_Minimal/
+	../../../Media KIT AlArabClub777/
+	../../../Modelfile_ai7
+	../../../NAVIGATION_INDEX.md
+	../../../NFTgate.html
+	../../../Nashmiya_Persona.ts
+	../../../New Tab_files/
+	../../../New game.html
+	../../../NextJS_Draft/
+	../../../Node.js
+	../../../ONGOING .txt
+	../../../ONLYrouterAlArabHOMEnoNETwithWiFi.png
+	../../../OPEN API ADAPTER.md
+	../../../Official_Documents/
+	../../../Okay, this is a comprehensive and well-s.ini
+	../../../Okay, this is a fascinating and intensel.ini
+	../../../Ollama bridge/
+	../../../Organized Summary for AlArab 777 Project.md
+	../../../PROTOCOL 777.md
+	../../../Projects/
+	../../../QUICK-START.md
+	../../../README.md
+	../../../README.txt
+	../../../ROI_Battle_Test.py
+	../../../ROOM-meeting-AiARB-/
+	../../../SEARCH_GUIDE.md
+	../../../SEVEN_VOICE_CORE.html
+	../../../SHADOW/
+	../../../START_NOW.md
+	../../../START_SERVER.command
+	../../../SVN_AI7/
+	../../../Screenshot 2026-02-13 at 07.47.00.jpg
+	../../../Screenshot 2026-02-13 at 17.41.27 (2).png.ps
+	../../../Seven777entityAiStudio/
+	../../../Seven_Connection_Manual.md
+	../../../Seven_Full_App.py
+	../../../Seven_Google_Package/
+	../../../Seven_Interface.html
+	../../../Seven_Keys_Report_For_Google.md
+	../../../Seven_Live_Speaker.html
+	../../../Seven_Offline_Launcher.command
+	../../../Seven_Telegram_Protocol.md
+	../../../SnapshotAgent.md
+	../../../SocialMediaAutomation/
+	../../../Start_AlArab777.command
+	../../../Start_Seven_Ultimate.command
+	../../../Stop_AlArab777.command
+	../../../Sven/
+	../../../T-alarabclub777.sh
+	../../../TRMNL777.txt
+	../../../Terminal Saved 30DEC2025.txt
+	../../../Terminal Saved Output.txt
+	../../../Terminal TXT ls.txt
+	../../../Terminal gpt.txt
+	../../../Terminal npm, run dev? Output.txt
+	../../../Terminal numpy.txt
+	../../../Terminal tts.txt
+	../../../Terminal-Voice-XTTS-setup.txt
+	../../../Terminal3agent-meeting.md
+	../../../Terminaldeepseek.txt
+	../../../The Arena Code.html
+	../../../The-Most-Common-Screen-Resolutions-To-Design-For-in-2024-preview.jpg
+	../../../TheOrganizer777.js
+	../../../TheOrganizer777/
+	../../../TheRunner/
+	../../../The_Injection/
+	../../../Theme ready/
+	../../../This is an absolutely phenomenal and imp.ini
+	../../../TodoList.py
+	../../../Tourist-AlArab-Need-CTA.MOV-ar-asr.vtt
+	../../../USDT/
+	../../../Unified_Command_Center.py
+	../../../Unified_Memory_Core.py
+	../../../Unknown Album/
+	../../../Untitled.rtf
+	../../../User1Report ~ apiU1Agent .md
+	../../../User1Report ~ apiU1Agent write Report((J.md
+	../../../VFN2APPL.SH.sh
+	../../../VbV 01 .txt
+	../../../Voice-Ai7seven-FinalAiStudio/
+	../../../VoiceOS/
+	../../../WebCore/
+	"../../../You are ai7 \360\237\221\201\357\270\217\342\200\215\360\237\227\250\357\270\217.md"
+	"../../../_\331\205\330\263\331\210\330\257\330\251 \330\247\331\204\330\271\330\261\330\247\330\250 \330\247\331\204\330\253\330\247\331\206\331\212\330\251.md"
+	../../../aArab Club 777 - AI Agent Environment.sh
+	../../../aaa.jpg
+	../../../action.js
+	../../../activate-ai-agent-mix.sh
+	../../../activate.sh
+	../../../advanced-ai-agent.py
+	../../../afterVoice.html
+	../../../afterVoice2.html
+	../../../agent-answers.html
+	../../../agent-answers.md
+	../../../agent-answers.txt
+	../../../agent.js
+	../../../agent.py
+	../../../agent777-full-system.html
+	../../../agent777.html
+	../../../agent777_sheets.ini
+	../../../agent777_sheets.py
+	../../../agent_controller.js
+	../../../agent_google_sheet.py
+	../../../agent_voice_777.py
+	../../../agents-chatroom.html
+	../../../agents-chatroom.jsx
+	../../../agents_market_1760610347053/
+	../../../ai-chat.html
+	../../../ai-sample.png
+	../../../ai7-gpt.py
+	../../../ai7-lunching-pyramidsnightlightAlArab777.png
+	../../../ai7-master-agent---project-777 (4)/
+	../../../ai7-master-agent---project-777/
+	../../../ai7-master-agent-project-777 (final)/
+	../../../ai7.png
+	../../../ai7=3/
+	../../../ai7talksdraft.html
+	"../../../ai7\331\2403 /"
+	../../../ai_beat_mixer.py
+	../../../ai_council.py
+	../../../ai_studio_code 6.html
+	../../../ai_studio_code.html
+	../../../ai_studio_code.sh
+	../../../ai_studio_code.txt
+	../../../aiggl.py
+	../../../al-arab777-ai-board/
+	../../../alArab-warp-v24 2/
+	../../../alArab_content_master.json
+	../../../al_arab_3_d_portal_web_gl_dotted_sphere_single_html.html
+	../../../al_arab_club_777_water_glass_landing.html
+	../../../alarab IMG_0385 2.png
+	../../../alarab-777-ai-agent.html
+	../../../alarab-777-standalone.html
+	../../../alarab-777-ultimate.html
+	../../../alarab-CMD777/
+	../../../alarab-agents-unified.html
+	../../../alarab-club-777-space.html
+	../../../alarab-html-logic.png
+	../../../alarab-lan-server-final/
+	../../../alarab-lan-server-v2/
+	../../../alarab-lan-server/
+	../../../alarab-pyramid-ultimate.html
+	../../../alarab-storm-processor/
+	../../../alarab-tours-final/
+	../../../alarab-voice-complete-full.html
+	../../../alarab-voice-complete.html
+	../../../alarab-workspace.json
+	../../../alarab.png
+	../../../alarab777branding
+	../../../alarab777branding.md
+	../../../alarab777gate.md
+	../../../alarabWebSite.md/
+	../../../alarab_reports.json
+	../../../alarab_runner.py
+	../../../alarab_vip_gold/
+	../../../alarabclub777-42b923c2754a.md
+	../../../alarabclub777-a1baec323dd4.json
+	../../../alarabclub777-pharaonic-portal.html
+	../../../alarabwindow.png
+	../../../all tour offers.jpg
+	../../../ancient-algerian-pyramids-desert-landscape.jpg
+	../../../app.js
+	../../../app777ai.html
+	../../../arab-legend/
+	../../../arabicon.png
+	../../../arbgensis/
+	../../../arena.html
+	../../../ask-masri-mvp/
+	../../../assets/
+	../../../auto.py
+	../../../autopilot.html
+	../../../awakening.html
+	../../../base_server.py
+	"../../../bazzarat Nazlet El\342\200\221Semman.md"
+	../../../bk2life.html
+	../../../blockchaincontract.md
+	../../../bmw_hub.py
+	../../../booking.html
+	../../../brain.html
+	../../../btrain.txt
+	../../../build mcp.md
+	../../../bvb5.txt
+	../../../bvb6.txt
+	../../../camel-riding-desert-adventure-algeria.jpg
+	../../../chat ui/
+	../../../chat-hub/
+	../../../chat-test.txt
+	../../../chat.html
+	../../../chat_cli.py
+	../../../chat_memoryolsTEST.db
+	../../../chatalac777.html
+	"../../../chatbot777 \342\200\224 Talk to 7.html"
+	../../../class AlArabMemory.py
+	../../../clearanc777e,md
+	../../../clearanc777e.md
+	../../../cloudi.html
+	../../../collect/
+	../../../compresedTEX
+	../../../config/
+	../../../copilot/
+	../../../css/
+	../../../ctrl7/
+	../../../daily_report_generator.py
+	../../../daily_reports/
+	../../../data/
+	../../../deep-webite.txt
+	../../../dendera-COURT.html
+	../../../design_assets/
+	../../../docker-compose.yml
+	../../../docs/
+	../../../dotenv
+	../../../draft/
+	../../../drafts
+	../../../drawings/
+	../../../dyad-apps/
+	../../../electron/
+	../../../env
+	../../../env_config-Bridge.sh
+	../../../execution_log.json
+	../../../eyye.html
+	../../../filr
+	../../../final draft Allin.md
+	../../../final_video_script_auto.py
+	../../../final_video_script_auto.spec
+	../../../fix_lan.py
+	../../../from TTS.py
+	../../../from TTS2.py
+	../../../from datetime import datetime, timezone,.ini
+	../../../full_chat_cli.py
+	../../../g0056.md
+	../../../gallery 2.html
+	../../../gallery.html
+	../../../gallery.png
+	../../../gemini-cli-setup.sh
+	../../../geminiclisetup.md
+	../../../gemma chat.txt
+	../../../generate_alarab_data.py
+	../../../generate_hospital_scripts.sh
+	../../../generate_video.py
+	../../../generate_voice.py
+	../../../generate_website.py
+	../../../generator.py
+	../../../get_up_generator.py
+	../../../githupreport.md
+	../../../giza pyramids map/
+	../../../giza-noahgare.html.json
+	../../../goGIZApyramidsCITY.md
+	../../../googledrive.md
+	../../../googlesheet.ini
+	../../../googlesheetpinokio.ini
+	../../../groq-logs-Default_Project-1d-2026-02-07-05-24-27.csv
+	../../../gste.html
+	../../../head-inf.rtf
+	../../../horse.jpg
+	../../../hospital+Redources/
+	../../../hotel.jpg
+	../../../htmlS/
+	../../../html_wireframe_avatar.html
+	../../../htmlpartsAi7.html
+	../../../i2a/
+	../../../iCloud Drive (Archive)/
+	../../../image-1.png
+	../../../image-2.png
+	../../../image.png
+	../../../images.jpeg
+	../../../images/
+	../../../import zipfile, os.py
+	../../../index 2.html
+	../../../index 3.html
+	../../../index-updated.html
+	../../../index.alive.html
+	../../../index.html
+	../../../index/
+	../../../indexALL.md
+	../../../indexSPACEREORT.html
+	../../../indexsecond.html
+	"../../../index\331\243.html"
+	../../../inject_antigravity_memory.py
+	../../../install_voice_factory.sh
+	../../../itrustGooGle.md
+	../../../js/
+	../../../judivoiceos7/
+	../../../judyOS777voicelap.html
+	../../../judyVoiceOSlogic.md
+	../../../keyboardshortcut.txt
+	../../../lArab 777 - Live from the Pyramids.html
+	../../../legacy/
+	../../../llamm-text.txt
+	../../../llma connect/
+	../../../logo-draft.jpg
+	../../../main.py
+	../../../manifest.webmanifest
+	../../../map.png
+	../../../meeting-lunching.md
+	../../../meeting004.md
+	../../../meeting3.md
+	../../../memories.json
+	../../../memory.json
+	../../../memory/
+	../../../memory_manager.py
+	../../../mirror-effect-demo.html
+	../../../moonalarab.png
+	../../../mouse-interactive.html
+	"../../../music-circle\330\247\331\204\330\267\330\247\330\250\330\251 \330\247\331\204\331\205\331\206\331\202\330\267\330\251 .html"
+	../../../my-ai-terminal-app/
+	../../../myDocuments.cannedSearch/
+	../../../namesandmore.png
+	../../../network_monitor.sh
+	../../../networksetup/
+	../../../new chats/
+	../../../notes.png
+	../../../offer.html
+	../../../old-seven website/
+	../../../ollama list.md
+	../../../ollama_bridge.py
+	../../../ollama_bridge_simple.py
+	../../../ongointasks.txt
+	../../../package-lock.json
+	../../../package.json
+	../../../pages 2/
+	../../../pages/
+	../../../pages_Version2.json
+	../../../panel_implementation_plan.md
+	../../../pharaonic_seal_777_1768840402509.png
+	../../../photos.html
+	../../../pinokio-main/
+	../../../placeholder-logo.png
+	../../../portal_center_pyramid_static_1768847116005.png
+	../../../portal_map.html
+	../../../print.jpg
+	../../../project777.txt
+	../../../public/
+	../../../pyramids graphic.GIF
+	../../../pyramids-view.jpg
+	../../../python Ai7_HMC.py
+	../../../readme 2.md
+	../../../reb.md
+	../../../reloadissue.html
+	../../../remixed-f7347722.tsx
+	../../../reort.md
+	../../../reort2.md
+	../../../rep.html
+	../../../rep.md
+	../../../repo_manifest.txt
+	../../../report.md.rtf
+	../../../requirements.txt
+	../../../room-standard.jpg
+	../../../router.jpg
+	../../../royal_tour.sh
+	../../../run_xtts.py
+	../../../run_xtts_clean.py
+	../../../runner.js
+	../../../safe_cleanup.sh
+	../../../sampeENV.txt
+	../../../sample.html
+	../../../saqqara-archaeological-site-ancient-ruins.jpg
+	../../../saqqara.jpg
+	../../../schadual.html
+	../../../scripts/
+	../../../sealed_env_template.env
+	../../../secret/
+	../../../serve_7777.py
+	../../../serve_seven.sh
+	../../../server-m1.py
+	../../../server.js
+	../../../server.txt
+	../../../service-icons.html
+	../../../services/
+	../../../setup.html
+	../../../setup_daily_reports.sh
+	../../../seven---the-777-digital-entity (4)/
+	../../../seven---the-777-digital-entity (5)/
+	../../../seven-terninal.html
+	../../../seven-the-777-digital-entity (stage)/
+	../../../seven1.txt
+	../../../sevenREADYclaude/
+	../../../seventerm.html
+	../../../sgnt777ini
+	../../../simple777council.py
+	../../../site-packages/
+	../../../site_map.html
+	../../../sky-pyramids-2125/
+	../../../social-app/
+	../../../soulkeeper777.md
+	../../../space.css
+	../../../space.js
+	../../../space_ai_hub.html
+	../../../space_ai_hub2.tsx
+	../../../speak_report.py
+	../../../spirit.html
+	../../../starnight.sh
+	../../../start-socialmedia-marketing.md
+	../../../start_777_system.sh
+	../../../start_alarab_runner.sh
+	../../../start_m5_suite.sh
+	../../../start_portal_server.sh
+	../../../start_seven_with_alarab.sh
+	../../../store_memory.py
+	../../../style.css
+	../../../success_report.md
+	../../../sw.js
+	../../../syncsystem/
+	../../../task.md
+	../../../telegram-bot/
+	../../../templates/
+	"../../../terminal req\330\252\331\212\330\261\331\205\331\212\331\206\330\247\331\204 \330\255\331\212.html"
+	../../../terminal test/
+	../../../terminal7777.sh
+	../../../test_alarab_runner.py
+	../../../test_ollama.py
+	../../../texteditor.html
+	../../../thesour777.html
+	../../../thin.txt
+	../../../thu_dec_18_2025_analysis_of_the_project_status/
+	../../../tmp/
+	../../../tmp_trainer/
+	../../../tools-master.html
+	../../../tour_template.csv
+	../../../tour_template.xlsx
+	../../../tourist dashg.html
+	../../../tourist-page.html
+	../../../touristdashall/
+	../../../training7001.html
+	../../../transcripts/
+	../../../trash/
+	../../../trend.html
+	../../../trend.md
+	../../../trim_audio.py
+	../../../tts-help.txt
+	../../../tts-in-macOS777.txt
+	../../../tts-terminal-reconnect.txt
+	../../../unified_ai_chat_v4.py
+	../../../untitled folder/
+	../../../vault.html
+	../../../vercel 2.json
+	../../../vercel.json
+	../../../video_thumbnails/
+	../../../videos-talk.md
+	../../../videos/
+	../../../viewing-value-the-selec-54e9bd2e4128c_1920.png
+	../../../views.py
+	../../../voice terminal done.txt
+	../../../voice-os-master.py
+	../../../voice_api.py
+	../../../voice_output/
+	../../../voiceos_ready/
+	../../../voicetest777.py
+	../../../walkthrough.md
+	../../../wordsrain777.html
+	../../../workartcomWORK777.html
+	../../../writing asisstan.tsx
+	../../../wrong=text-455C-98D7-4C-0.txt
+	../../../xi agent.png
+	../../../xttx.html
+	../../../zero.html
+	"../../../\330\243\331\205\330\261\331\203 \331\205\330\267\330\247\330\271 \331\212\330\247 \330\271\330\261\331\221\330\247\330\250 \342\232\234\357\270\217.ini"
+	"../../../\330\243\331\207\331\204\330\247\331\213 \330\250\330\247\331\204\330\271\330\261\331\221\330\247\330\250\330\214 \331\212\330\247 \330\250\330\247\330\264\330\247 \330\255\331\202\331\203 \330\271\331\204\331\212.md"
+	"../../../\330\243\331\207\331\204\330\247\331\213 \330\250\331\203 \331\212\330\247 \330\264\330\261\331\212\331\201\330\214 \331\210\331\203\331\204\331\205\330\247\330\252\331\203 \330\254\331\205\331\212\331\204\330\251 \331\210\331\205\330\271\330\250\330\261\330\251 \330\255.ini"
+	"../../../\330\245\330\271\330\257\330\247\330\257\330\247\330\252 \330\247\331\204\331\206\330\270\330\247\331\205 \330\247\331\204\330\243\330\263\330\247\330\263\331\212\330\251 \331\210\330\247\331\204\330\256\330\252\331\205 \330\247\331\204\330\243\330\250\330\257\331\212.py"
+	"../../../\330\247\330\256\330\252\331\212\330\247\330\261 \330\247\331\204\331\201\331\212\330\257\331\212\331\210 \330\247\331\204\330\261\330\247\330\246\330\254.docx"
+	"../../../\330\247\330\263\331\205\330\271\331\206\331\212 \331\212\330\247 \330\271\330\261\331\221\330\247\330\250\330\214 \331\207\330\263\330\247 \331\205\330\247 \330\250\330\257\331\212 \330\243\330\261\330\254\330\271 \331\204\330\256\331\212\330\247\330\261\331\212\331\206.html"
+	"../../../\330\247\331\204\330\270\330\247\330\250\330\251 \331\205\331\206\331\202\330\267\330\251.html"
+	"../../../\330\247\331\204\330\271\330\261\331\221\330\247\330\250 777 | \331\210\330\247\330\254\331\207\330\251.html"
+	"../../../\330\247\331\204\330\271\330\261\331\221\330\247\330\250 rules.md"
+	"../../../\330\247\331\204\330\271\330\261\331\221\330\247\330\250\330\214 \330\256\330\260\331\206\331\212 \331\205\330\250\330\247\330\264\330\261\330\251\331\213 \331\204\331\204\330\255\331\204 \330\247\331\204\330\271\331\205\331\204\331\212 \330\247\331\204\330\242\331\206 \330\250.ini"
+	"../../../\330\250\331\210\330\247\330\250\330\251 AlArab.html"
+	"../../../\330\252\330\255\331\204\331\212\331\204 \331\205\331\204\331\201 777Agent_MASTER_SINGLE-Digital.md"
+	"../../../\330\252\331\205\330\247\331\205 \331\212\330\247 \330\247\331\204\330\271\330\261\331\221\330\247\330\250.ini"
+	"../../../\330\252\331\205\330\247\331\205 \331\212\330\247 \330\247\331\204\330\271\330\261\331\221\330\247\330\250\342\200\246 \330\256\330\260 **\330\247\331\204\331\206\330\265\331\210\330\265 \330\247\331\204\331\203\330\247\331\205\331\204\330\251** \331\204.ini"
+	"../../../\330\252\331\205\330\247\331\205 \331\212\330\247 \330\271\330\261\331\221\330\247\330\250.ini"
+	"../../../\330\252\331\205\330\247\331\205 \342\200\224 \331\201\331\207\331\205\330\252 **\330\247\331\204\330\267\331\204\330\250 \330\250\331\210\330\266\331\210\330\255**:.ini"
+	"../../../\330\252\331\205\330\247\331\205. \331\205\330\256\330\252\330\265\330\261 \330\254\330\257\331\213\330\247.ini"
+	"../../../\330\252\331\205\330\247\331\205.html"
+	"../../../\330\252\331\205\330\247\331\205.ini"
+	"../../../\330\252\331\205\330\247\331\2052 \331\212\330\247 \330\247\331\204\330\271\330\261\331\221\330\247\330\250.ini"
+	"../../../\330\252\331\205\330\247\331\205\330\214 \330\263\330\243\330\250\330\257\330\243 \330\247\331\204\330\242\331\206 \331\201\331\212 \330\252\330\255\331\204\331\212\331\204 \331\210\330\252\331\206\330\270\331\212\331\205 \331\205\330\255\330\252\331\210\331\211 \331\205.ini"
+	"../../../\330\254.html"
+	"../../../\330\254\331\210\331\204\330\251 \330\247\331\204\330\243\331\207\330\261\330\247\331\205\330\247\330\252 \342\200\223 \331\206\330\262\331\204\330\251 \330\247\331\204\330\263\331\205\330\247\331\206final.html"
+	"../../../\330\256\330\257\331\205\330\247\330\252 \330\247\331\204\330\263\331\205\330\247\331\206.html"
+	"../../../\330\265\331\210\330\261\330\251 \330\247\331\204\330\256\331\201\330\247\330\264.png"
+	"../../../\331\201\331\210\330\247\330\271\330\257 \331\205\330\256\330\265\330\265\330\251 \331\204\331\204\331\210\331\203\331\204\330\247 \330\247\331\204\331\205\330\252\331\210\330\247\330\254\330\260\331\212\331\206 \331\205\330\250\330\247\330\264\330\261 \330\247\331\210\331\206 \331\204\330\247\331\212\331\206.md"
+	"../../../\331\204\331\202\330\257 \330\247\330\261\330\252\331\202\331\212\330\252 \330\250\330\247\331\204\331\205\330\263\330\252\331\210\331\211 \330\245\331\204\331\211 \331\210\330\266\330\271 \330\247\331\204\330\252\331\206\331\201\331\212\330\260 \330\247\331\204\330\247\331\206"
+	"../../../\331\204\331\212\331\203 \331\205\330\247 \330\243\331\206\330\254\330\262\331\207 **\330\247\331\204\330\271\330\261\331\221\330\247\330\250 777.md"
+	"../../../\331\205\330\261\330\255\330\250\330\247\331\213 \330\264\330\261\331\212\331\201\330\214 \331\207\330\260\330\247 \330\267\331\204\330\250 \331\205\331\205\330\252\330\247\330\262! \331\204\330\252\330\255\330\257\331\212\330\257 \330\247\331\204\331\201\331\212\330\257.ini"
+	"../../../\331\205\330\263\331\210\330\257\330\247\330\252 \330\247\331\204\330\271\330\261\330\247\330\250/"
+	"../../../\331\205\330\264 \342\200\234\330\247\330\256\330\252\330\250\330\247\330\261\342\200\235 \331\210\331\204\330\247 \330\267\331\204\330\250 \330\262\331\212\330\247\330\257\330\251 \331\212\330\247 \330\247\331\204\330\271\330\261\331\221\330\247\330\250\342\200\224\330\247\331\204\331\204.ini"
+	"../../../\331\205\331\205\330\252\330\247\330\262 \342\200\224 \331\206\330\261\331\203\331\221\330\262 \330\271\331\204\331\211 \330\247\331\204\331\205\330\267\331\204\331\210\330\250 \330\247\331\204\330\242\331\206: \331\206\330\261\330\252\330\250 \342\200\234Ge.ini"
+	"../../../\331\210\330\265\331\204\330\252. \330\256\331\204\331\221\330\265\331\206\330\247 \330\247\331\204\331\203\331\204\330\247\331\205 \330\247\331\204\331\206\330\270\330\261\331\212.ini"
+	"../../../\331\210\330\265\331\204\330\252. \330\256\331\204\331\221\330\265\331\206\330\247 \330\247\331\204\331\203\331\204\330\247\331\205 \330\247\331\204\331\206\330\270\330\261\331\212.md"
+	"../../../\331\212\330\247 \330\247\331\204\331\204\331\207 \331\207\330\260\330\247 \330\247\331\204\330\261\330\254\331\204 \330\271\330\250\331\202\330\261\331\212 \331\201\330\271\331\204\330\247\331\213!.md"
+	"../../../\331\212\330\247 \330\271\330\261\331\221\330\247\330\250 \342\234\250.html"
+	"../../../\331\212\330\247 \330\271\330\261\331\221\330\247\330\250\330\214 \330\243\331\207\331\204\330\247\331\213 \330\250\331\203.ini"
+	"../../../\331\212\330\247 \330\271\330\261\331\221\330\247\330\250\330\214 \330\264\331\201\330\252 \331\205\331\206 \330\247\331\204\330\265\331\210\330\261 \330\245\331\206\331\203 \330\264\330\272\331\221\330\247\331\204 \331\207\330\263\330\247 \330\271\331\204\331\211.ini"
+	"../../../\331\247\331\247\331\247ai/"
+	"../../../\342\200\217\330\243\331\206\330\247 \331\210\330\247\330\265\331\204\330\251 \330\263\330\271\330\261 \330\247\331\204\330\250\331\212\330\252\331\203\331\210\331\212\331\206 \330\247\331\204\331\212\331\210\331\205 \331\205\330\247\330\260\330\247 \330\243\331\206\330\247 .md"
+	"../../../\342\200\217\330\250\331\212\330\252 \330\247\331\204\330\266\331\212\330\247\331\201\330\251 \330\256\331\210\331\201\331\210.png"
+	"../../../\342\200\217\330\252\331\202\330\261\331\212\330\261 \330\252\331\210\330\254\331\212\331\207\330\247\330\252 \330\247\331\204\330\260\331\203\330\247\330\241 \330\247\331\204\330\247\330\265\330\267\331\206\330\247\330\271\331\212.md"
+	"../../../\342\200\217\331\205\331\204\331\201 \331\206\330\262\331\204\330\251 \330\247\331\204\330\263\331\205\330\247\331\206.txt"
+	"../../../\342\200\217\331\206\330\270\330\247\331\205 \331\205\330\263\330\252\331\202\331\204.md"
+	"../../../\342\226\221\342\226\222\342\226\223\342\226\210\360\223\201\271\342\226\210\342\226\223\342\226\222\342\226\221/"
+	"../../../\360\237\214\215 Chatterbox TTS Pro - Multilingual.html"
+	"../../../\360\237\214\215 Chatterbox TTS Pro - Multilingual_files/"
+	"../../../\360\237\221\201\357\270\217_\330\264\330\247\331\207\330\257_\330\247\331\204\330\271\330\261\331\221\330\247\330\250.command"
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[+] Pushing to Main...
+Everything up-to-date
+==========================================
+✅ Finished! If there are no errors above, the push was successful!
+==========================================
+
+Saving session...
+...copying shared history...
+...saving history...truncating history files...
+...completed.
+
+[Process completed]
+

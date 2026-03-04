@@ -1,0 +1,8 @@
+{
+  "name": "Gemini Live Audio Interface",
+  "description": "A professional-grade real-time voice interaction interface powered by the Gemini 2.5 Flash Native Audio API, featuring low-latency audio streaming, visualizers, and live transcription.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
